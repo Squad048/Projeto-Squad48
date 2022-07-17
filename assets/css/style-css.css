@@ -34,7 +34,7 @@ li .sistema{
     background-image: url('/assets/images/fundo_criancas.png');
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: #038003;
+    /* background-color: #038003; */
     
 }
 .apresentacao{
