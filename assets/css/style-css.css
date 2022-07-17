@@ -31,10 +31,10 @@ li .sistema{
 .section1{
     display: flex;
     flex-direction: column;
-    background-image: url('/assets/images/fundo_criancas.png');
+    background-image: url('../images/fundo_criancas.png');
     background-repeat: no-repeat;
     background-size: contain;
-    /* background-color: #038003; */
+    background-color: #038003; 
     
 }
 .apresentacao{
